@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "https://from1996.fun/PicGo/00.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Felix",
-	bio: "Nothing.",
+	bio: "Peaceful Love.",
 	links: [
 		{
 			name: "Twitter",
@@ -72,7 +72,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/saicaca/fuwari",
+			url: "https://github.com/FunHP",
 		},
 	],
 };
