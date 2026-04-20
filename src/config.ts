@@ -21,8 +21,8 @@ export const siteConfig: SiteConfig = {
 		position: "bottom", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
-			text: "111", // Credit text to be displayed
-			url: "", // (Optional) URL link to the original artwork or artist's page
+			text: "中世纪", // Credit text to be displayed
+			url: "https://haowallpaper.com/homeViewLook/15562200807412032", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {
