@@ -4,7 +4,7 @@ published: 2026-04-19
 description: Learn
 category: Katex
 tags: [Katex]
-image: "https://from1996.fun/PicGo/中世纪-孤独的女孩.png"
+image: "https://from1996.fun/PicGo/太空.png"
 draft: false
 ---
 
