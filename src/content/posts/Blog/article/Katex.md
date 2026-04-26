@@ -2,9 +2,9 @@
 title: Katex
 published: 2026-04-19
 description: Learn
-category: Katex
+category: Learn
 tags: [Katex]
-image: "./太空.png"
+image: "../picture/太空.png"
 draft: false
 ---
 

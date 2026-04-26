@@ -2,9 +2,9 @@
 title: Cpp_to_plc
 published: 2026-04-22
 description: S7
-image: ./地平线 5.png
-tags: [Cpp, connect]
-category: plc
+image: ../picture/地平线 5.png
+tags: [Cpp, connect,plc]
+category: Learn
 draft: false
 ---
 

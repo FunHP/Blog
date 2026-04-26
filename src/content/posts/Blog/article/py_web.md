@@ -2,9 +2,9 @@
 title: view py
 published: 2026-04-22
 description: python可视化web网页建立
-image: ./oo.png
-tags: [py, view]
-category: py_view
+image: ../picture/oo.png
+tags: [py, visualize]
+category: Learn
 draft: false
 ---
 > 项目实例：[PPO_Elevator](https://disk.dcpstudios.top/project/9)

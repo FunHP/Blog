@@ -2,8 +2,7 @@
 title: First
 published: 2026-04-18
 description: Saturday.
-image: "./中世纪-孤独的女孩.png"
-tags: [First]
+image: "../picture/中世纪-孤独的女孩.png"
 category: First
 draft: false
 ---

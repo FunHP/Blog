@@ -2,9 +2,9 @@
 title: Graphif
 published: 2026-04-26
 description: Project Graph 是一款专注于快速绘制分析框架图的桌面工具，旨在帮助用户高效地创建项目拓扑图和进行系统性分析与头脑风暴。
-image: "./头骨和骨头-极简主义.png"
+image: "../picture/头骨和骨头-极简主义.png"
 tags: [graph]
-category: tools
+category: Tools
 draft: false
 ---
 > 项目地址:[graphif](https://graphif.dev/)
