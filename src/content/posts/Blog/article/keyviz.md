@@ -8,3 +8,6 @@ category: Tools
 draft: false
 ---
 > 项目链接:[github](https://github.com/mularahul/keyviz)
+:::note
+适用于windows和mac，linux不太方便
+:::
